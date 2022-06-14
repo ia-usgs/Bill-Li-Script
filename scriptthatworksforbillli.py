@@ -11,6 +11,7 @@ sites with different parameters. It will now also display Ground Water and Surfa
 # first import the functions for downloading data from NWIS
 
 import dataretrieval.nwis as nwis
+import pandas as pd
 
 #INPUT PROPER SITES HERE:
 
